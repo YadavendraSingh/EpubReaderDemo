@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EPubReader Demo</string>
+    <string name="download">DOWNLOAD</string>
+    <string name="view">VIEW</string>
+</resources>
